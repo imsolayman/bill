@@ -1,0 +1,16 @@
+.container{
+	padding-left: 0;
+}
+.btn a{
+	color:#fff;
+}
+.login-panel-body{
+	max-width: 600px;
+	margin: 0 auto;
+}
+.form-inline{
+	display: inline;
+}
+.alert-danger > span{
+	font-weight: 700;
+}
